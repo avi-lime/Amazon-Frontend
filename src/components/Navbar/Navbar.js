@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from 'C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/amazon_logo.png'
+import logo from '../../../assets/amazon_logo.png'
 
 function goToSearch() {
     window.location.pathname = '/search'

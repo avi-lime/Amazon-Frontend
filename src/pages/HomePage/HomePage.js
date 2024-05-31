@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from 'C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/banner.jpg'
+import banner from '../../../assets/banner.jpg'
 
 const HomePage = () => {
     return (

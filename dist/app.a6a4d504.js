@@ -28920,7 +28920,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
-var _banner = _interopRequireDefault(require("C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/banner.jpg"));
+var _banner = _interopRequireDefault(require("../../../assets/banner.jpg"));
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
 var HomePage = function HomePage() {
   return /*#__PURE__*/_react.default.createElement("div", {
@@ -28933,7 +28933,7 @@ var HomePage = function HomePage() {
   })));
 };
 var _default = exports.default = HomePage;
-},{"react":"node_modules/react/index.js","C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/banner.jpg":"assets/banner.jpg"}],"src/components/Card/Card.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../../../assets/banner.jpg":"assets/banner.jpg"}],"src/components/Card/Card.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -29019,7 +29019,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 var _react = _interopRequireDefault(require("react"));
-var _amazon_logo = _interopRequireDefault(require("C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/amazon_logo.png"));
+var _amazon_logo = _interopRequireDefault(require("../../../assets/amazon_logo.png"));
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
 function goToSearch() {
   window.location.pathname = '/search';
@@ -29053,7 +29053,7 @@ var Navbar = function Navbar() {
   }, /*#__PURE__*/_react.default.createElement("span", null, "Cart"))));
 };
 var _default = exports.default = Navbar;
-},{"react":"node_modules/react/index.js","C:/Users/sa319/OneDrive/Documents/GitHub/Amazon-Frontend/assets/amazon_logo.png":"assets/amazon_logo.png"}],"src/components/Footer/Footer.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","../../../assets/amazon_logo.png":"assets/amazon_logo.png"}],"src/components/Footer/Footer.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
